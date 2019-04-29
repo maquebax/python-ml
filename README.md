@@ -32,4 +32,4 @@ https://github.com/ujjwalkarn/DataSciencePython
 
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
-
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
